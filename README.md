@@ -7,8 +7,8 @@
 3. Bootstrap
 ## Có các tính năng ở trang web:
 1. Các loại sản phẩm
-![SanPham]([https://upanh.org/image/2dk8cn](https://i.postimg.cc/Bs1vDK3b/danhsachsanpham.jpg))
+![SanPham](https://i.postimg.cc/HsdH1jV1/danhsachsanpham.jpg)
 2. Đặt hàng
 ![Dathang](https://i.postimg.cc/85vDN6RN/dathang.jpg)
 4. Xem giỏ hàng và thanh toán
-![Giohang](https://localhost:44360/DienThoais)
+![Giohang](https://i.postimg.cc/Cx7hGDX0/don-hang.jpg)
